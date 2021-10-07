@@ -34,7 +34,7 @@ RUN apt-get update \
 
 # install R packages needed for VSCode interaction and package management
 RUN install2.r languageserver renv remotes
-RUN installGithub.r nx10/httpgd
+RUN installGithub.r r-lib/pak
 
 # install radian via python and pip3
 RUN apt-get update \
