@@ -691,6 +691,19 @@
       "RemoteSha": "1.18.0",
       "Hash": "417fd0d40479932c19faf2747817c473"
     },
+    "pak": {
+      "Package": "pak",
+      "Version": "0.1.2.9001",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "r-lib",
+      "RemoteRepo": "pak",
+      "RemoteRef": "master",
+      "RemoteSha": "e86c0a2075cb6e0d8610e35806c7fbfb5332d256",
+      "Remotes": "r-lib/cli",
+      "Hash": "ee906bce1dcd09b16ef879a56c0bdc0a"
+    },
     "parallelly": {
       "Package": "parallelly",
       "Version": "1.28.1",

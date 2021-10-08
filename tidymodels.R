@@ -1,1 +1,2 @@
+library(pak)
 library(tidymodels)
